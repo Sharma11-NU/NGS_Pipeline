@@ -25,8 +25,8 @@ I downloaded it over FTP. I am aligning it to hg38.
 
 Commands used:
 ## Sample reads (paired-end FASTQ)
-wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR016/ERR016155/ERR016155_1.fastq.gz
-wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR016/ERR016155/ERR016155_2.fastq.gz
+### wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR016/ERR016155/ERR016155_1.fastq.gz
+### wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR016/ERR016155/ERR016155_2.fastq.gz
 
 ## Reference genome 
 wget https://hgdownload.soe.ucsc.edu/goldenPath/hg38/chromosomes/chr22.fa.gz
