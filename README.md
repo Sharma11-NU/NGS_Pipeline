@@ -28,7 +28,7 @@ Commands used:
 wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR016/ERR016155/ERR016155_1.fastq.gz
 wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR016/ERR016155/ERR016155_2.fastq.gz
 
-## Reference genome (chr22 only — small, perfect for learning)
+## Reference genome 
 wget https://hgdownload.soe.ucsc.edu/goldenPath/hg38/chromosomes/chr22.fa.gz
 
 # STEP 2: FASTQC
